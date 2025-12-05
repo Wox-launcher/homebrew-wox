@@ -1,16 +1,16 @@
 cask "wox" do
     arch arm: "arm64", intel: "x86_64"
     
-    version "v2.0.0-beta.5"
+    version "v2.0.0-beta.6"
 
     on_arm do
-      sha256 "90707e62d3f3590b77ea85283cd9d93b297ed223f10bd813dadbbfdef431f8a9"
-      url "https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.5/wox-mac-arm64.dmg",
+      sha256 "50319634104f0477a276c3ee84a2b1f72d0a17081ee1e783cb2d55e19037853b"
+      url "https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.6/wox-mac-arm64.dmg",
           verified: "github.com/Wox-launcher/Wox/"
     end
     on_intel do
-      sha256 "8f1bbeb1d69a8e5d9e690835abcb5f61bf8419f710df26f0e1a75bfd9e0b095d"
-      url "https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.5/wox-mac-amd64.dmg",
+      sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+      url "https://github.com/Wox-launcher/Wox/releases/download/v2.0.0-beta.6/",
           verified: "github.com/Wox-launcher/Wox/"
     end
   
