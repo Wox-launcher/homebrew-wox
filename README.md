@@ -1,2 +1,1 @@
-# homebrew-wox
-Homebrew Tap
+Archive now, since wox cast has been merged to homebrew main bucket
